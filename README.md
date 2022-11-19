@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @freyrads
+- 👀 I’m interested in Networking, CyberSec, System Administration and Web Application
+- 🌱 I’m currently learning DevOps and Web Development, I code in mostly JavaScript and C++
+- 💞️ I’m looking to collaborate on challenging and interesting projects
+- 📫 Contact me @ frs18840@gmail.com
